@@ -32,6 +32,10 @@ body{
     width: 100%;
 }
 
+.full-width .slides{
+    width: 100% !important;
+}
+
 .slide-with-bg h2 {
     background-color: white;
     width: 100%;
