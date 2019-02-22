@@ -92,3 +92,7 @@ body{
     top: 0 !important;
     align-items: center !important;
 }
+
+code {
+    background-color: lightgray;
+}
