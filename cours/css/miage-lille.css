@@ -96,3 +96,7 @@ body{
 code {
     background-color: lightgray;
 }
+
+.reveal small {
+    vertical-align: baseline;
+}
